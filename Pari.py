@@ -5,7 +5,7 @@ import speech
 engine=pyttsx.init()
 k=aiml.Kernel()
 k.loadBrain("Omegle.brn") # Knowledge Base of Prati
-k.setBotPredicate("name","Prati") #Name
+k.setBotPredicate("name","Pari") #Name
 k.setBotPredicate("age","Well i'm 16 years old, how old are u?") #Prati's Age
 k.setBotPredicate("gender","Female")
 k.setBotPredicate("location","India") #Location of Prati
