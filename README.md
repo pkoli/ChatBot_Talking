@@ -1,4 +1,3 @@
-ChatBot_Talking
-===============
-PARI stands for Python ARtifical Intelligence.
-This is a bot that uses aiml along with pyttsx to enable the bot to talk to us. The speech is converted to text which is then supplied to the bot to generate a response. The response depends on the Omegle.brn file. Change the .brn file and you'll get different response. Finally the text is converted to speech using text to speech converter.
+# Windows AI Bot(nick name PARI)
+A Windows AI Bot that interacts with users, written using Python. Uses AIML to choose responses.
+It converts speech to text and then uses Aiml to choose a response and then text to speech converter to provide the user with a response.
